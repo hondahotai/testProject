@@ -1,0 +1,181 @@
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Black'), local('Lato-Black'),
+    url('../fonts/Lato-Black.woff2') format('woff2'),
+    url('../fonts/Lato-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Regular'), local('Lato-Regular'),
+    url('../fonts/Lato-Regular.woff2') format('woff2'),
+    url('../fonts/Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Bold'), local('Lato-Bold'),
+    url('../fonts/Lato-Bold.woff2') format('woff2'),
+    url('../fonts/Lato-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Rg';
+    src: local('Proxima Nova Bold'), local('ProximaNova-Bold'),
+    url('../fonts/ProximaNova-Bold.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Rg';
+    src: local('Proxima Nova Regular'), local('ProximaNova-Regular'),
+    url('../fonts/ProximaNova-Regular.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro'),
+    url('../fonts/GothamPro.woff2') format('woff2'),
+    url('../fonts/GothamPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro-Bold'),
+    url('../fonts/GothamPro-Bold.woff2') format('woff2'),
+    url('../fonts/GothamPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner Medium'), local('Commissioner-Medium'),
+    url('../fonts/Commissioner-Medium.woff2') format('woff2'),
+    url('../fonts/Commissioner-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner Thin'), local('Commissioner-Thin'),
+    url('../fonts/Commissioner-Thin.woff2') format('woff2'),
+    url('Commissioner-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner ExtraBold'), local('Commissioner-ExtraBold'),
+    url('../fonts/Commissioner-ExtraBold.woff2') format('woff2'),
+    url('../fonts/Commissioner-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner Regular'), local('Commissioner-Regular'),
+    url('Commissioner-Regular.woff2') format('woff2'),
+    url('Commissioner-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner Light'), local('Commissioner-Light'),
+    url('../fonts/Commissioner-Light.woff2') format('woff2'),
+    url('../fonts/Commissioner-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner Bold'), local('Commissioner-Bold'),
+    url('../fonts/Commissioner-Bold.woff2') format('woff2'),
+    url('../fonts/Commissioner-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner ExtraLight'), local('Commissioner-ExtraLight'),
+    url('../fonts/Commissioner-ExtraLight.woff2') format('woff2'),
+    url('../fonts/Commissioner-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner Black'), local('Commissioner-Black'),
+    url('../fonts/Commissioner-Black.woff2') format('woff2'),
+    url('../fonts/Commissioner-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: local('Commissioner SemiBold'), local('Commissioner-SemiBold'),
+    url('../fonts/Commissioner-SemiBold.woff2') format('woff2'),
+    url('../fonts/Commissioner-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mail Sans Roman';
+    src: local('Mail Sans Roman DemiBold'), local('MailSansRoman-DemiBold'),
+    url('../fonts/MailSansRoman-DemiBold.woff2') format('woff2'),
+    url('../fonts/MailSansRoman-DemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mail Sans Roman';
+    src: local('Mail Sans Roman Regular'), local('MailSansRoman-Regular'),
+    url('../fonts/MailSansRoman-Regular.woff2') format('woff2'),
+    url('../fonts/MailSansRoman-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
